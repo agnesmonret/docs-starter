@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#a21caf",
+    "light": "#ab32b7",
+    "dark": "#a21caf",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#a21caf",
+      "to": "#ab32b7"
     }
   },
   "topbarLinks": [
@@ -84,8 +84,6 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "discord": "https://discord.gg/oral"
   }
 }
